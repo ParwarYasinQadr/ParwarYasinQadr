@@ -1,7 +1,6 @@
 # 💫 About Me:
 ⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br><br>🎓 2nd-year Software Engineering student at Qiawan International University<br>🛠️ Currently diving into Nest.js to enhance my backend skills<br>🌍 Passionate about creating scalable and user-friendly web applications<br><br>💡 Always exploring innovative ideas and staying up-to-date with the latest tech trends<br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/parwar_yassin/profilecard/?igsh=emhocDV1aDRjODR5) 
 
@@ -12,9 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParwarYasinQadr&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParwarYasinQadr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+### ✍️
+If we want users to like our software, we should design it to behave like a likable person.
 ---
 [![](https://visitcount.itsvg.in/api?id=ParwarYasinQadr&icon=0&color=0)](https://visitcount.itsvg.in)
 

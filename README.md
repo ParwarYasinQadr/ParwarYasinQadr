@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br><br>🎓 2nd-year Software Engineering student at Qiawan International University<br>🛠️ Currently diving into Nest.js to enhance my backend skills<br>🌍 Passionate about creating scalable and user-friendly web applications<br><br>💡 Always exploring innovative ideas and staying up-to-date with the latest tech trends<br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
+⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br><br>🎓 2nd-year Software Engineering student at Qiawan International University<br>🛠️ Currently diving into Nest.js to enhance my backend skills<br>🌍 Passionate about creating scalable and user-friendly web applications<br><br>💡 Always exploring innovative ideas and staying up-to-date with the latest tech trends<br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
 
 
 ## 🌐 Socials:
@@ -12,13 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParwarYasinQadr&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParwarYasinQadr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ParwarYasinQadr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ParwarYasinQadr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- created with GPRM ( https://gprm.itsvg.in ) -->

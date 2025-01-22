@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br><br>🎓 2nd-year Software Engineering student at Qiawan International University<br>🛠️ Currently diving into Nest.js to enhance my backend skills<br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>💡 Always exploring innovative ideas and staying up-to-date with the latest tech trends<br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
+⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br><br>🎓 2nd-year Software Engineering student at Qiawan International University<br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>💡 Always exploring innovative ideas and staying up-to-date with the latest tech trends<br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/parwar_yassin/) 

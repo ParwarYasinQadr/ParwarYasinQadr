@@ -1,5 +1,5 @@
 # About Me:
-⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br>🛠️ Currently focused on developing a powerful AI Agent Platform and an integrated ERP System tailored for the restaurant business.<br><br>🎓 3rd-year Software Engineering student at Qaiwan International University<br>🌟 A franchise of University Technology Malaysia (UTM).<br><br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
+⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br>🛠️ Currently focused on developing a powerful AI Agent Platform and an integrated ERP System tailored for the restaurant business.<br><br>🎓 3rd-year Software Engineering student at University Technology Malaysia (UTM).<br><br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
 
 
 ## 🌐 Socials:

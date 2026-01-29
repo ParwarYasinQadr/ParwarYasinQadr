@@ -1,5 +1,5 @@
 # About Me:
-⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Building the future with the NPPN stack (Next.js, PostgreSQL, Prisma, Node.js)<br>🛠️ Currently focused on developing a powerful AI Agent Platform and an integrated ERP System tailored for the restaurant business.<br><br>🎓 3rd-year Software Engineering student at University Technology Malaysia (UTM).<br><br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
+⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br>🚀 Philosophy: Code should be as fast as thought. I leverage the TypeScript ecosystem to maintain high development velocity without sacrificing the power needed for heavy-duty operations. For me, performance isn't just a metric—it's the ability to scale complex logic at the speed of business.<br>🛠️ Currently focused on developing a powerful AI Agent Platform and an integrated ERP System engineered for business.<br><br>🎓 3rd-year Software Engineering student at University Technology Malaysia (UTM).<br><br>🌍 Passionate about creating efficient and user-friendly web applications<br><br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
 
 
 ## 🌐 Socials:

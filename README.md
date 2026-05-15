@@ -1,6 +1,15 @@
-# About Me:
-⚡ 👨‍💻 Full-Stack Developer | Software Engineering Student<br><br>🚀 Philosophy: Code should be as fast as thought. I leverage the TypeScript ecosystem to maintain high development velocity without sacrificing the power needed for heavy-duty operations.<br>For me, performance isn't just a metric—it's the ability to scale complex logic at the speed of business.<br>🛠️ Currently focused on developing a powerful AI Agent Platform and integrating an ERP System engineered for business.<br><br>🎓 3rd-year Software Engineering student at University Technology Malaysia (UTM).<br><br>🌱 Open to collaboration on exciting projects and contributing to the community<br><br>📬 Let's connect and code together!
+⚡ Full-Stack Developer | Software Engineer<br><br>
+🧠 I don't just write code — I architect systems that scale, automate, and earn.<br>
+Building at the intersection of AI and real business problems, from Kurdistan to wherever the problem is.<br><br>
+🚀 TypeScript is my native language. Performance isn't a feature — it's the baseline.<br><br>
+🔧 Currently building:<br>
 
+An AI-powered business management platform for the Middle East market<br>
+AI tools that automate the boring parts of running a business<br><br>
+🌍 3rd-year Software Engineering student @ Universiti Teknologi Malaysia (UTM), Kurdistan, Iraq<br>
+(Yes, we build serious things here too.)<br><br>
+🤝 Open to collabs, freelance work, and wild ideas that might actually ship<br><br>
+📬 Let's build something worth talking about.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parwar_yassin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parwar-yassin) 

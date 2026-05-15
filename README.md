@@ -1,7 +1,7 @@
 ⚡ Full-Stack Developer | Software Engineer<br><br>
 🧠 I don't just write code — I architect systems that scale, automate, and earn.<br>
 Building at the intersection of AI and real business problems, from Kurdistan to wherever the problem is.<br><br>
-🚀 TypeScript ecosystem is my home— because life's too short to context switch between languages.<br><br>
+🚀 TypeScript ecosystem is my home— because life's too short to switch between languages.<br><br>
 🔧 Currently building:<br>
 
 An AI-powered business management platform for the Middle East market<br>

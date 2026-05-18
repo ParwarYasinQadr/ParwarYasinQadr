@@ -7,7 +7,7 @@ Building at the intersection of AI and real business problems, from Kurdistan to
 An AI-powered business management platform for the Middle East market<br>
 AI tools that automate the boring parts of running a business<br><br>
 🌍 3rd-year Software Engineering student @ Universiti Teknologi Malaysia (UTM), Kurdistan, Iraq<br>
-(Yes, we build serious things here too.)<br><br>
+<br><br>
 🤝 Open to collabs, freelance work, and wild ideas that might actually ship<br><br>
 📬 Let's build something worth talking about.
 

@@ -1,5 +1,5 @@
 ⚡ Full-Stack Developer | Software Engineer<br><br>
-🧠 I don't just write code — I architect systems that scale, automate, and earn.<br>
+Writing code is cheap. Designing systems that last is the real work.<br>
 Building at the intersection of AI and real business problems, from Kurdistan to wherever the problem is.<br><br>
 🚀 TypeScript ecosystem is my home— because life's too short to switch between languages.<br><br>
 🔧 Currently building:<br>
@@ -8,8 +8,8 @@ An AI-powered business management platform for the Middle East market<br>
 AI tools that automate the boring parts of running a business<br><br>
 🌍 3rd-year Software Engineering student @ Universiti Teknologi Malaysia (UTM), Kurdistan, Iraq<br>
 <br><br>
-🤝 Open to collabs, freelance work, and wild ideas that might actually ship<br><br>
-📬 Let's build something worth talking about.
+🤝 Open to: Freelance contracts, technical partnerships, and ambitious ideas engineered to ship.<br><br>
+📬 Got a complex challenge? Let’s architect the solution.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parwar_yassin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parwar-yassin) 

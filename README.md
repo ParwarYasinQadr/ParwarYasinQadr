@@ -1,16 +1,17 @@
-⚡ Full-Stack Developer | Software Engineer<br><br>
-Writing code is cheap. Designing systems that last is the real work.<br>
-Building at the intersection of AI and real business problems, from Kurdistan to wherever the problem is.<br><br>
-🚀 TypeScript ecosystem is my home— because life's too short to switch between languages.<br><br>
+⚡ Software Engineer | Founder of Charchy<br><br> Writing code is cheap. Designing systems that last is the real work.<br> I build AI products that solve real problems for real businesses, from Kurdistan to wherever the problem is.<br><br>
+
+🚀 TypeScript end-to-end — one language from the database to the mobile app, so I ship faster and break less.<br><br>
 🔧 Currently building:<br>
 
-An AI-powered business management platform for the Middle East market<br>
-AI tools that automate the boring parts of running a business<br><br>
-🌍 3rd-year Software Engineering student @ Universiti Teknologi Malaysia (UTM), Kurdistan, Iraq<br>
-<br><br>
-🤝 Open to: Freelance contracts, technical partnerships, and ambitious ideas engineered to ship.<br><br>
-📬 Got a complex challenge? Let’s architect the solution.
+**[Charchy](https://charchy.krd)** — an AI-powered customer engagement platform that lets businesses handle all their customer conversations in one place, with AI doing the repetitive work. Built in public.<br>
 
+**[Kokar](https://kokar.krd)** — a home for agencies and companies to operate better: one unified workspace for AI, collaboration, management and reporting, built for teams whose time is valuable. I lead engineering there as CTO.<br><br>
+
+🎓 4th-year Software Engineering student **[Qaiwan International University](https://www.uniq.edu.iq/)** (**[UTM](https://www.utm.my/)** Franchise), Sulaymaniyah, Kurdistan, Iraq<br> 🎥 Sharing the journey in Kurdish as <b>The Technical Founder</b> on Instagram & TikTok<br><br>
+
+🤝 Open to: technical partnerships, AI-for-industry collaborations, and ambitious ideas engineered to ship.<br><br>
+
+📬 Got a complex challenge? Let’s architect the solution.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parwar_yassin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parwar-yassin) 
 
